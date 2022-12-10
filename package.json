@@ -31,7 +31,7 @@
     "angular-tree-grid": "^2.6.9",
     "core-js": "^2.6.9",
     "export-to-csv": "^0.2.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-saver": "^2.0.1",
     "jquery": "^3.3.1",
     "jspdf": "^1.5.3",
